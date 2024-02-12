@@ -1,4 +1,4 @@
-<img width="960" alt="Home" src= "D:\Myntra-Clone\readme pics\firstpage.png">
+<img width="960" alt="Home" src= "firstpage.png">
 <img width="960" alt="House-living" src="https://user-images.githubusercontent.com/96285027/235316695-d4fbbb63-c890-427c-b133-645f85ef4774.png">
 <img width="960" alt="Login" src="https://user-images.githubusercontent.com/96285027/235316699-840e1497-3283-4cbd-8d74-0b3f4776b384.png">
 <img width="960" alt="Body" src="https://user-images.githubusercontent.com/96285027/235316690-ddaf3784-2032-4664-99be-4f14d7290dd9.png">
